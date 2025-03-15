@@ -1,4 +1,4 @@
-# Spotfiy Data Pipeline End-To-End Python Data Engineering Project
+# Spotfiy Data Pipeline End-To-End Data Engineering Project
 
 ### Introduction
 In this project we build an ETL pipeline using Spotify API on AWS. The pipeline will retrieve the data from Spotify API, transform it to a desired  format and load it into an AWS data store.
